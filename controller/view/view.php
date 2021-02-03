@@ -61,7 +61,9 @@ if(isset($_SESSION['logined']))
 </style>
 <body>
 	<form method="post" action="" enctype="multipart/form-data">
-	<div class="send">
+    	
+    <div class="send">
+		<div><a href='signout.php'>Sign out</a></div>
 		<div>
 		<label style='font-size: 18px;font-weight: bold;'for="number">Number :</label>
 		<input id='number' name='number' type="number" placeholder='With Area Code' required>
@@ -73,6 +75,8 @@ if(isset($_SESSION['logined']))
 	</div>
 		<button name='submit' type="submit">Submit</button>
 	</div>
+
+	
 	</form>
 </body>
 
@@ -90,7 +94,7 @@ if(isset($_SESSION['logined']))
 }
 else
 {
-    header('location:login.php');
+    header('location:../login.php');
     exit();
 }
 ?>
