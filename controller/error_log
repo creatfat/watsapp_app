@@ -1,0 +1,56 @@
+[26-Jan-2021 19:12:32 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/plustori/public_html/watsapp/login.php on line 21
+[26-Jan-2021 19:12:44 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/plustori/public_html/watsapp/login.php on line 21
+[26-Jan-2021 19:12:44 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/plustori/public_html/watsapp/login.php:1) in /home/plustori/public_html/watsapp/login.php on line 35
+[26-Jan-2021 19:13:26 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/plustori/public_html/watsapp/watsapp.php on line 3
+[26-Jan-2021 19:13:26 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/plustori/public_html/watsapp/watsapp.php:1) in /home/plustori/public_html/watsapp/watsapp.php on line 6
+[26-Jan-2021 19:13:35 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/plustori/public_html/watsapp/watsapp.php on line 3
+[26-Jan-2021 19:13:35 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/plustori/public_html/watsapp/watsapp.php:1) in /home/plustori/public_html/watsapp/watsapp.php on line 6
+[26-Jan-2021 19:15:15 UTC] PHP Warning:  move_uploaded_file(/image/hacking.jpg): failed to open stream: No such file or directory in /home/plustori/public_html/watsapp/watsapp.php on line 88
+[26-Jan-2021 19:15:15 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php3iJshu' to '/image/hacking.jpg' in /home/plustori/public_html/watsapp/watsapp.php on line 88
+[26-Jan-2021 19:40:56 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/plustori/public_html/watsapp/watsapp.php on line 4
+[26-Jan-2021 19:40:56 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/plustori/public_html/watsapp/watsapp.php:1) in /home/plustori/public_html/watsapp/watsapp.php on line 7
+[26-Jan-2021 19:41:04 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/plustori/public_html/watsapp/login.php on line 21
+[26-Jan-2021 19:41:12 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/plustori/public_html/watsapp/login.php on line 21
+[26-Jan-2021 19:41:12 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/plustori/public_html/watsapp/login.php:1) in /home/plustori/public_html/watsapp/login.php on line 35
+[26-Jan-2021 19:41:48 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/plustori/public_html/watsapp/login.php on line 21
+[26-Jan-2021 19:42:49 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/plustori/public_html/watsapp/login.php on line 21
+[26-Jan-2021 19:42:55 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/plustori/public_html/watsapp/login.php on line 21
+[26-Jan-2021 19:42:55 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/plustori/public_html/watsapp/login.php:1) in /home/plustori/public_html/watsapp/login.php on line 35
+[26-Jan-2021 19:43:01 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/plustori/public_html/watsapp/login.php on line 21
+[26-Jan-2021 19:43:01 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/plustori/public_html/watsapp/login.php:1) in /home/plustori/public_html/watsapp/login.php on line 35
+[26-Jan-2021 19:43:06 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/plustori/public_html/watsapp/login.php on line 21
+[26-Jan-2021 19:43:06 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/plustori/public_html/watsapp/login.php:1) in /home/plustori/public_html/watsapp/login.php on line 35
+[26-Jan-2021 19:44:29 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/plustori/public_html/watsapp/login.php on line 21
+[26-Jan-2021 19:44:35 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/plustori/public_html/watsapp/login.php on line 21
+[26-Jan-2021 19:44:35 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/plustori/public_html/watsapp/login.php:1) in /home/plustori/public_html/watsapp/login.php on line 27
+[26-Jan-2021 19:46:02 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/plustori/public_html/watsapp/login.php on line 21
+[26-Jan-2021 19:46:10 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/plustori/public_html/watsapp/login.php on line 21
+[26-Jan-2021 19:46:10 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/plustori/public_html/watsapp/login.php:1) in /home/plustori/public_html/watsapp/login.php on line 27
+[26-Jan-2021 19:46:35 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/plustori/public_html/watsapp/login.php on line 21
+[26-Jan-2021 19:46:43 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/plustori/public_html/watsapp/login.php on line 21
+[26-Jan-2021 19:46:43 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/plustori/public_html/watsapp/login.php:1) in /home/plustori/public_html/watsapp/login.php on line 27
+[26-Jan-2021 19:53:04 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/plustori/public_html/watsapp/login.php on line 24
+[26-Jan-2021 19:53:04 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/plustori/public_html/watsapp/login.php:1) in /home/plustori/public_html/watsapp/login.php on line 28
+[26-Jan-2021 19:53:53 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/plustori/public_html/watsapp/login.php on line 24
+[26-Jan-2021 19:53:53 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/plustori/public_html/watsapp/login.php:1) in /home/plustori/public_html/watsapp/login.php on line 28
+[26-Jan-2021 19:55:44 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/plustori/public_html/watsapp/login.php on line 24
+[26-Jan-2021 19:55:44 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/plustori/public_html/watsapp/login.php:1) in /home/plustori/public_html/watsapp/login.php on line 28
+[26-Jan-2021 19:57:22 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/plustori/public_html/watsapp/login.php on line 21
+[26-Jan-2021 19:57:23 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/plustori/public_html/watsapp/login.php on line 21
+[26-Jan-2021 19:57:28 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/plustori/public_html/watsapp/login.php on line 21
+[26-Jan-2021 19:57:28 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/plustori/public_html/watsapp/login.php:1) in /home/plustori/public_html/watsapp/login.php on line 27
+[26-Jan-2021 19:58:15 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/plustori/public_html/watsapp/login.php on line 21
+[26-Jan-2021 19:58:20 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/plustori/public_html/watsapp/login.php on line 21
+[26-Jan-2021 19:58:20 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/plustori/public_html/watsapp/login.php:1) in /home/plustori/public_html/watsapp/login.php on line 27
+[26-Jan-2021 20:07:24 UTC] PHP Recoverable fatal error:  Object of class stdClass could not be converted to string in /home/plustori/public_html/watsapp/watsapp.php on line 105
+[26-Jan-2021 20:46:09 UTC] PHP Warning:  file_get_contents(https://eu187.chat-api.com/instance220285/sendFile?token=wzs5ybiwn02avn0k): failed to open stream: Connection timed out in /home/plustori/public_html/watsapp/watsapp.php on line 105
+[28-Jan-2021 13:31:37 UTC] PHP Warning:  file_get_contents(https://eu212.chat-api.com/instance220902/sendFile?token=s9mr0y0knbcmxfol): failed to open stream: Connection timed out in /home/plustori/public_html/watsapp/watsapp.php on line 105
+[29-Jan-2021 11:39:59 UTC] PHP Warning:  file_get_contents(https://eu187.chat-api.com/instance220285/sendFile?token=wzs5ybiwn02avn0k): failed to open stream: Connection timed out in /home/plustori/public_html/watsapp/watsapp.php on line 105
+[03-Feb-2021 16:03:03 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'root'@'cloud70.mizbanfadns.net' (using password: YES) in /home/plustori/public_html/watsapp/model/config.php:2
+Stack trace:
+#0 /home/plustori/public_html/watsapp/model/config.php(2): PDO->__construct('mysql:host=86.1...', 'root', '09014615171m')
+#1 /home/plustori/public_html/watsapp/signup.php(15): include('/home/plustori/...')
+#2 {main}
+  thrown in /home/plustori/public_html/watsapp/model/config.php on line 2
+[03-Feb-2021 16:06:06 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/plustori/public_html/watsapp/signup.php:22) in /home/plustori/public_html/watsapp/signup.php on line 23
+[03-Feb-2021 16:19:09 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/plustori/public_html/watsapp/signup.php:22) in /home/plustori/public_html/watsapp/signup.php on line 23
