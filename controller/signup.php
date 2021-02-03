@@ -1,6 +1,7 @@
 <?php
 if(isset($_POST['submit']))
 {
+    
 	$username = $_POST['username'];
 	$password = $_POST['password'];
 	$confirm = $_POST['confirm'];
@@ -19,9 +20,9 @@ if(isset($_POST['submit']))
 			$query->bindValue(2,$password);
 			if($query->execute())
 			{
+			    header('location:login.php');
 				echo '<script>alert("Your Account Successfuly Registred");</script>';
-				header('location:login.php');
-				exit();
+				
 			}
 			else
 			{
